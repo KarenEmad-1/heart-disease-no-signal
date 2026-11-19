@@ -95,11 +95,5 @@ python make_report.py  # recomputes everything and builds report.pdf (a few minu
 ├── report.pdf           # full write-up with figures and discussion
 ├── model_results.csv    # cross-validation results
 ├── figures/             # EDA plots and Table 1 CSVs
-├── requirements.txt
-└── LICENSE
+└── requirements.txt
 ```
-
-## License
-
-The code is released under the [MIT License](LICENSE). The dataset is **not** covered by this license;
-see the [Kaggle page](https://www.kaggle.com/datasets/oktayrdeki/heart-disease) for its terms.
