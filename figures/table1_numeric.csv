@@ -1,0 +1,10 @@
+feature,No: mean (sd),Yes: mean (sd),p-value
+Age,49.4 (18.2),49.0 (18.1),0.3463
+Blood Pressure,149.9 (17.6),149.3 (17.5),0.164
+Cholesterol Level,225.4 (43.7),225.7 (43.2),0.7863
+BMI,29.0 (6.3),29.3 (6.3),0.0499
+Sleep Hours,7.0 (1.8),7.0 (1.8),0.7027
+Triglyceride Level,250.6 (87.0),251.2 (87.5),0.7657
+Fasting Blood Sugar,120.2 (23.6),120.0 (23.5),0.8298
+CRP Level,7.5 (4.3),7.4 (4.3),0.5477
+Homocysteine Level,12.4 (4.3),12.5 (4.3),0.4061

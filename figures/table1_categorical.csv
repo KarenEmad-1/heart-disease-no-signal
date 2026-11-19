@@ -1,0 +1,12 @@
+feature,p-value
+Gender,0.104
+Exercise Habits,0.7987
+Smoking,0.825
+Family Heart Disease,0.5117
+Diabetes,0.8062
+High Blood Pressure,0.8413
+Low HDL Cholesterol,0.5992
+High LDL Cholesterol,0.4436
+Alcohol Consumption,0.3949
+Stress Level,0.021
+Sugar Consumption,0.5145
